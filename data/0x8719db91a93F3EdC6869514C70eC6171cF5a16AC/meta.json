@@ -1,0 +1,16 @@
+{
+  "name": "UCF FINANCE",
+  "symbol": "UCF",
+  "description": "UCF Finance is a defi project developing by the group of enthusiastic people who trust decentralization! The decisions and actions of UCF are made by its community through voting to assure equity and fairness for all service through UCF",
+  "web": "https://www.ucffinance.xyz",
+  "decimals": 18,
+  "whitepaper": "http://ucffinance.xyz/gallery/UCF%20FINANCE%20WHITEPAPER.pdf",
+  "email": "ucfffinance@gmail.com",
+  "links": {
+    "telegram": "ucfchannel"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 14
+  }
+}
